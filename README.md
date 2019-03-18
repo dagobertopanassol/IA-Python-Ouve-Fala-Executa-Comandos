@@ -1,8 +1,8 @@
-# Ensinar a IA a falar e realizar tarefas 
+# Ensinar a IA a falar e realizar tarefas com Python no Windows
 
+Objetivo é ensinar um sistema a obedecer comandos de voz, realizar eventos no computador e conversar com o usuário.
 
-Objetivo é ensinar um sistema a obedecer comandos, realizar eventos no computador e conversar com o usuário.
+- Ela ja aprende falando e ouvindo sem precisar escrever as respostas. Salva no SQLlite (Machine Learning)
+- Já executa tarefas faladas. ex. "Abrir Navegador, Fechar Navegador", "Reiniciar SAMBA com SSH"
 
-Já consegui fazer ela Ouvir e Responder falando... agora vou criar uma forma de salvar e ela aprender falando e ouvindo sem precisar escrever as respostas. (Machine Learning)
-
-O uso da IA ainda não foi implantado.
+O uso da IA ainda não foi implantado. (Deep Learning)
