@@ -16,9 +16,9 @@ def restart_samba():
         
     ## EDIT SSH DETAILS ##
     SSH_PORT = "33222"
-    SSH_ADDRESS = "177.73.0.158"
+    SSH_ADDRESS = "127.0.0.1"
     SSH_USERNAME = "root"
-    SSH_PASSWORD = "dagobrt"
+    SSH_PASSWORD = "senha"
     #SSH_COMMAND = "echo 'Hello World!' > comOK.txt"
     SSH_COMMAND = "service smb restart"
     
